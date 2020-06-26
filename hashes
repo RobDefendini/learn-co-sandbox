@@ -1,0 +1,1 @@
+hash[:new_key] = "New Value"
